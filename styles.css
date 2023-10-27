@@ -2,19 +2,22 @@
 
 body {
     font-family: Arial, sans-serif;
+    color: #43145e;
     margin: 0;
     padding: 0;
+    background-color: #e5b3dd;
+
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #c04caa;
     color: white;
     text-align: center;
     padding: 1rem;
 }
 
 nav {
-    background-color: #333;
+    background-color: #d783cb;
     color: white;
     padding: 0.5rem;
 }
@@ -36,15 +39,15 @@ nav ul li a {
 }
 
 #contenido {
+    background-color: #d783cb;
     padding: 20px;
 }
 
 footer {
-    background-color: #4CAF50;
+    background-color: #c04caa;
     color: white;
     text-align: center;
     padding: 1rem;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
