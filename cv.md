@@ -1,4 +1,4 @@
-# **Currículum Vitae de Harry Potter** :sparkles:
+# **Currículum Vitae de Josep Tormo** :sparkles:
 
 ## **Información Personal** :mag_right:
 - **Nombre:** Josep Tormo García
